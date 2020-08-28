@@ -42,7 +42,7 @@
     <header class="main-header">
 
         <!-- Logo -->
-        <a href="/" class="logo">
+        <a href="/" class="logo" style="background-color: #2E6C4D">
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini"><b>C</b>XA</span>
             <!-- logo for regular state and mobile devices -->
@@ -50,7 +50,7 @@
         </a>
 
         <!-- Header Navbar -->
-        <nav class="navbar navbar-static-top" role="navigation">
+        <nav style="background-color: #2E6C4D" class="navbar navbar-static-top" role="navigation">
             <!-- Sidebar toggle button-->
             <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
                 <span class="sr-only">Toggle navigation</span>
@@ -69,7 +69,7 @@
                             <!-- hidden-xs hides the username on small devices so only the image appears. -->
                             <span class="hidden-xs">Usuario</span>
                         </a>
-                        <ul class="dropdown-menu">
+                        <ul class="dropdown-menu" style="background-color: #2E6C4D">
                             <!-- The user image in the menu -->
                             <li class="user-header">
                                 <img src="../../dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
@@ -112,7 +112,7 @@
         </nav>
     </header>
     <!-- Left side column. contains the logo and sidebar -->
-    <aside class="main-sidebar">
+    <aside style="background-color: #2E6C4D" class="main-sidebar">
 
         <!-- sidebar: style can be found in sidebar.less -->
         <section class="sidebar">
@@ -250,7 +250,7 @@
     <footer class="main-footer">
         <!-- To the right -->
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2019 <a href="#">E&J</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2020 <a href="#">J&R</a>.</strong> All rights reserved.
     </footer>
 
     <!-- Control Sidebar -->

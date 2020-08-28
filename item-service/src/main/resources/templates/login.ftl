@@ -6,11 +6,11 @@
     <link rel="stylesheet" href="../../style/stylelogin.css">
     <link rel="stylesheet" href="../../bower_components/font-awesome/css/font-awesome.min.css">
 </head>
-<body>
+<body style="background-color: #11B663">
 
-<form role="form" id="myform" action="/api/auth" method="post" onsubmit="return makeSearch()">
+<form style="background-color: #11B663" role="form" id="myform" action="/api/auth" method="post" onsubmit="return makeSearch()">
 
-    <div class="login-box">
+    <div class="login-box" style="background-color: #11B663">
         <h1>Login</h1>
 
         <div class="textbox">
