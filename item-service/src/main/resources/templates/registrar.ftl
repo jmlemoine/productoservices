@@ -24,6 +24,8 @@
 <#--action="/api/auth/registrarse"-->
 <form id="form" class="form-horizontal" >
     <div class="row">
+
+        <br>
         <div class="form-group">
             <label for="username" class="control-label col-md-3">Usuario</label>
             <div class="col-sm-6 col-md-6 col-lg-6 col-xs-6">

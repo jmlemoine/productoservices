@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Ensures optimal rendering on mobile devices. -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Optimal Internet Explorer compatibility -->
-    <title>${titulo}</title>
+    <title></title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
@@ -46,7 +46,7 @@
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini"><b>C</b>XA</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg"><b>MULTIMEDIA</b>CXA</span>
+            <span class="logo-lg"><b></b></span>
         </a>
 
         <!-- Header Navbar -->
